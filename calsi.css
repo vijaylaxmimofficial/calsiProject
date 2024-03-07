@@ -1,0 +1,40 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+ body{
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(106, 106, 109);
+    
+}
+.container{
+    width: 200px;
+    height: 300px;
+    background-color: rgb(178, 178, 178);
+    border-radius: 8px;
+}
+#inputBox{
+    margin-top: 5%;
+    margin-left: 5%;
+    margin-right: 7%;
+    width: 180px;
+    height: 60px;
+    border-radius: 5px;
+    font-size: medium;
+   
+    background-color: rgb(195, 194, 194);
+}
+button{
+    margin-top: 20px;
+    margin-left: 16px;
+    border-radius: 5px;
+    width: 28px;
+    height: 25px;
+    box-shadow: transparent;
+    }
+#equalsbtn{
+        background-color: orange;
+    }
